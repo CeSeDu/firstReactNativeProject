@@ -8,6 +8,7 @@ import {
   Touchable,
   TouchableOpacity,
 } from 'react-native';
+import Card from './components/Card';
 
 const sayHello = () => {
   console.log('Merhabalar!');
@@ -15,56 +16,15 @@ const sayHello = () => {
 
 function App() {
   return (
-    <SafeAreaView style={styles.container}>
-      <View style={styles.card_container}>
-        <View style={styles.card_body}>
-          <Text style={styles.card_title}>Eddard Stark</Text>
-          <Text style={styles.card_text}>Winter is Coming...</Text>
-        </View>
-        <TouchableOpacity style={styles.card_button_container}>
-          <Text style={styles.card_button}>I Liked</Text>
-        </TouchableOpacity>
-      </View>
+    <SafeAreaView>
+      <Card title="Eddard Stark" text="Winter is Coming.." />
+      <Card title="Arif Işık" text="Evet tarafından" />
+      <Card title="Serbest" text="İlhami abi sen söyle, ben başka bir ilde miyim?" />
+      <Card title="Doğu" text="Neler yaa, neler " />
+      <Card title="Iron Man" text="I am Iron Man" />
     </SafeAreaView>
   );
 }
 export default App;
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#e0e0e0',
-  },
-  card_container: {
-    backgroundColor: 'white',
-    margin: 10,
-    borderWidth: 1,
-    borderColor: 'gray',
-    borderRadius: 20,
-    marginTop:20,
-  },
-  card_body: {
-    padding: 10,
-  },
-  card_title: {
-    fontSize: 20,
-    fontWeight: 'bold',
-    margin: 10,
-    marginBottom: 3,
-  },
-  card_text: {
-    fontSize: 16,
-    margin: 10,
-  },
-  card_button_container: {
-    backgroundColor:'#00C2FF',
-    padding:10,
-    alignItems: 'center',
-    borderBottomEndRadius: 20,
-    borderBottomStartRadius: 20,
-  },
-  card_button: {
 
-    
-  }
-});
