@@ -1,0 +1,28 @@
+[
+    {
+      "u_id": 1,
+      "description": "An in-depth look into the mysteries of the cosmos.",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdM44kQVZZRpYAm0fezXdyBmogYCF6DAKYw&s"
+    },
+    {
+      "id": 2,
+      "description": "Discover the secrets of culinary arts and gourmet cooking.",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2e9eNtzmpN2fvnr1Wum0NmDmSwoe3tn01nA&s"
+    },
+    {
+      "id": 3,
+      "description": "A comprehensive guide to building modern web applications.",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdM44kQVZZRpYAm0fezXdyBmogYCF6DAKYw&s"
+    },
+    {
+      "id": 4,
+      "description": "An exploration of the history and evolution of art through the ages.",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2e9eNtzmpN2fvnr1Wum0NmDmSwoe3tn01nA&s"
+    },
+    {
+      "id": 5,
+      "description": "Practical advice and tips for creating a beautiful garden.",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdM44kQVZZRpYAm0fezXdyBmogYCF6DAKYw&s"
+    }
+  ]
+  

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "author": "Jane Doe",
+    "title": "Exploring the Universe",
+    "description": "An in-depth look into the mysteries of the cosmos.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdM44kQVZZRpYAm0fezXdyBmogYCF6DAKYw&s"
+  },
+  {
+    "id": 2,
+    "author": "John Smith",
+    "title": "The Art of Cooking",
+    "description": "Discover the secrets of culinary arts and gourmet cooking.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2e9eNtzmpN2fvnr1Wum0NmDmSwoe3tn01nA&s"
+  },
+  {
+    "id": 3,
+    "author": "Alice Johnson",
+    "title": "Modern Web Development",
+    "description": "A comprehensive guide to building modern web applications.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdM44kQVZZRpYAm0fezXdyBmogYCF6DAKYw&s"
+  },
+  {
+    "id": 4,
+    "author": "Robert Brown",
+    "title": "The History of Art",
+    "description": "An exploration of the history and evolution of art through the ages.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2e9eNtzmpN2fvnr1Wum0NmDmSwoe3tn01nA&s"
+  },
+  {
+    "id": 5,
+    "author": "Emily Davis",
+    "title": "Gardening Tips and Tricks",
+    "description": "Practical advice and tips for creating a beautiful garden.",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdM44kQVZZRpYAm0fezXdyBmogYCF6DAKYw&s"
+  }
+]
